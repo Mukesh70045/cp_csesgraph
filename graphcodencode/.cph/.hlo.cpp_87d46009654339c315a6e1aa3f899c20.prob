@@ -1,0 +1,1 @@
+{"name":"Local: hlo","url":"c:\\Users\\mukesh\\Desktop\\cp trick\\graphcodencode\\hlo.cpp","tests":[{"id":1673277641517,"input":"8 1\n8 7\n\n\n4\n1 7\n","output":"TIE\n6\n7\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mukesh\\Desktop\\cp trick\\graphcodencode\\hlo.cpp","group":"local","local":true}
